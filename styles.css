@@ -4,6 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-color: black;
 }
 
 .container {
@@ -13,6 +14,7 @@ body {
 #numberDisplay {
     font-size: 2em;
     margin-bottom: 20px;
+    color :white;
 }
 
 .button-container {
