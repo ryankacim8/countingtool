@@ -23,6 +23,8 @@ body {
 }
 
 button {
+    width:100px;
+    margin:20px;
     padding: 10px;
     font-size: 1em;
     cursor: pointer;
